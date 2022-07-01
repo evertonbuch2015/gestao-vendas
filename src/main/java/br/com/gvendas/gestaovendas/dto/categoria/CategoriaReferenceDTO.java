@@ -6,6 +6,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 @Schema(description = "Categoria Referenciada DTO")
 public class CategoriaReferenceDTO {
 
+	
 	@Schema(description = "Código")
 	private Long codigo;
 
